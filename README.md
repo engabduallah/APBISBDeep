@@ -1,5 +1,5 @@
 # APBISBDeep
-![image](https://user-images.githubusercontent.com/87785000/126638213-d8de7b30-9747-41a9-bfff-60984879d95f.png)
+![image](https://user-images.githubusercontent.com/87785000/126638319-ed14d9b4-b687-4ec3-b871-fe6bb7122316.png)
 
 This Project is done by Eng. Abduallah Damash, and assigned to me by Asst. Prof. Dr. Meryem Erbilek as part of CNG483 (Int. to Comp. Vision) course.
 
