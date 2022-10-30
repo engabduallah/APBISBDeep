@@ -5,12 +5,12 @@ This Project is done by Eng. Abduallah Damash, and assigned to me by Asst. Prof.
 
 If you have any issues or comments on the project, contact me on Linkedin (https://www.linkedin.com/in/engabduallah). I also provided the dataset that I used in this project so that you can try it by yourself.
 
-Insight about the project:
+# Insight about the project:
 
 Implement an age prediction system based on fully-connected neural networks (NN) with rectified linear unit (ReLU) as nonlinearity 
 function between layers and train it with RMSprop optimizer using the provided feature vectors, and useing softmax (cross-entropy loss) function to minimize the difference between actual age group and the estimated one. Then, evaluate it with a BioSecure Multimodal Database (BMDB) that consists of 200 subjects includes four eye images (two left and two right) for people within the age range of 18-73. Using a high-level language program, particularly Python, and common libraries such as PyTorch, OpenCV, Matplotlib, Pandas, and Numpy.
 
-Dataset: 
+# Dataset: 
 
 The commercially available data Set 2 (DS2) of the BioSecure Multimodal Database (BMDB) is utilised 
 for this project. Four eye images (two left and two right) were acquired in two different sessions with 
@@ -48,6 +48,6 @@ from these files and also form the third type feature set. File description is a
 
 ![image](https://user-images.githubusercontent.com/87785000/126638147-6583505a-4c93-447c-8de9-4616da0e044a.png)
 
-Enjoy it.
+# Enjoy it.
 
-All rights saved, if you want to use any piece of the code, mentioning my name will be enough.
+# All rights saved, if you want to use any piece of the code, mentioning my name will be enough.
